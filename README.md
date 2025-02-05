@@ -1,2 +1,1 @@
-# UKK120255
-UKK120255
+# Discount-Calculator with JavaScript
